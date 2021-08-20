@@ -1,0 +1,9 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#mouth {
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: linear;
+}
